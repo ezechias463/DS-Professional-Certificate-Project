@@ -23,5 +23,5 @@ This project is part of the Data Science Specialization provided by IBM on Cours
 - etc.
 
 ### Auther
-Ezechias Mirindi
+Ezechias Mirindi - 
 Data Scientist
